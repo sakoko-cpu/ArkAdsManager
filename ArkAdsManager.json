@@ -4,10 +4,10 @@
 	    {
 		
 		"networkads":"admob",
-		"banneradmob":"ca-app-pub-3940256099942544/6300978111",
-		"interstitialadmob":"ca-app-pub-3940256099942544/1033173712",
-		"nativeadmob":"ca-app-pub-3940256099942544/2247696110",
-		"interstitialEachShow":2,
+		"banneradmob":"ca-app-pub-1621202560400482/3030921047",
+		"interstitialadmob":"ca-app-pub-1621202560400482/6587022674",
+		"nativeadmob":"ca-app-pub-1621202560400482/3769287640",
+		"interstitialEachShow":4,
 		"startapp":false
 	   }
 	
